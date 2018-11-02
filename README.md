@@ -1,37 +1,12 @@
 ## How to Make a Peanut Butter and Jelly Sandwich
+1. Collect your ingredients. You will want peanut butter, some jam or jelly, and some bread.
+2. Spread peanut butter evenly onto one slice of bread using a knife.
+3. Spread jelly or jam evenly onto the other slice of bread.
+4. Press the two slices of bread together. (To avoid having peanut butter and jelly run everywhere, do this quickly.)
+5. Cut the sandwich. The best way to cut the sandwich is diagonal, from one corner to another, giving you two triangle shaped pieces.
+6. Enjoy your easy and yummy looking sandwich and be sure to share it with your new Red Hat colleagues!
 
-You can use the [editor on GitHub](https://github.com/bahsan22/ElizabethHuesingRedHatTest/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bahsan22/ElizabethHuesingRedHatTest/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
